@@ -2,6 +2,11 @@
 lab:
   title: コンテンツ解釈クライアント アプリケーションを開発する
   description: Azure AI コンテンツ解釈 REST API を使用して、アナライザーのクライアント アプリを開発します。
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure
 ---
 
 # コンテンツ解釈クライアント アプリケーションを開発する

@@ -2,6 +2,11 @@
 lab:
   title: 事前構築済み Azure AI Document Intelligence モデルを使用してフォームを分析する
   description: 事前構築済みの Azure AI Document Intelligence モデルを使用して、ドキュメントのテキスト フィールドを処理します。
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure
 ---
 
 # 事前構築済み Azure AI Document Intelligence モデルを使用してフォームを分析する

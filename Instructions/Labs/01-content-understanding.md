@@ -2,6 +2,11 @@
 lab:
   title: マルチモーダル コンテンツから情報を抽出する
   description: Azure AI コンテンツ解釈を使用して、ドキュメント、画像、オーディオ記録、ビデオから分析情報を抽出します。
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Azure
 ---
 
 # マルチモーダル コンテンツから情報を抽出する

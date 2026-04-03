@@ -2,6 +2,11 @@
 lab:
   title: カスタム Azure AI Document Intelligence モデルを使用してフォームを分析する
   description: ドキュメントから特定のデータを抽出するカスタム Document Intelligence モデルを作成します。
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
 ---
 
 # カスタム Azure AI Document Intelligence モデルを使用してフォームを分析する

@@ -2,6 +2,11 @@
 lab:
   title: ナレッジ マイニング ソリューションを作成する
   description: Azure AI 検索を使用すると、ドキュメントから重要な情報を抽出し、検索と分析を容易に行うことができます。
+  duration: 40 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
 ---
 
 # ナレッジ マイニング ソリューションを作成する
